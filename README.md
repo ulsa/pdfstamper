@@ -1,10 +1,10 @@
 # pdfstamper
 
-Stamps PDF files with their name in the upper right corner.
+Stamps PDF files with their name in the upper right corner. Clojure implementation of Christopher Suarez's Java-version [available here](http://feathertrail.blogspot.se/2013/10/stamp-pdf-with-its-file-name.html).
 
 ## Usage
 
-FIXME: explanation
+You can give it either the name of a PDF file to stamp, or a directory, in which case it will process all PDF files in that directory.
 
     $ java -jar pdfstamper-0.1.0-standalone.jar -h
     Need to stamp a pdf file with it's filename? Here you go.
