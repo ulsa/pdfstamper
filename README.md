@@ -20,7 +20,13 @@ You can give it either the name of a PDF file to stamp, or a directory, in which
 
 ## Examples
 
-...
+Before stamper:
+
+![Before stamper](doc/before-stamper.png)
+
+After stamper:
+
+![After stamper](doc/after-stamper.png)
 
 ### Bugs
 
